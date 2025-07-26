@@ -1,0 +1,40 @@
+# ملفات بايثون المؤقتة
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# بيئات افتراضية
+venv/
+env/
+ENV/
+
+# ملفات IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ملفات النتائج
+*.txt
+!requirements.txt
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
